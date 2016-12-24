@@ -1,0 +1,22 @@
+.headero1{
+    background: #272727;
+    color: #fff;
+    text-align:center;
+    padding:20px 0
+}
+.headero2{
+    background: red;
+    color: #000;
+    text-align:center;
+    padding:20px 0;
+    position:fixed;
+    top:0;
+    width:100%;
+    display:none;
+}
+.content{
+    height: 250px;
+}
+.showafterthis{
+    height:2000px;
+}
